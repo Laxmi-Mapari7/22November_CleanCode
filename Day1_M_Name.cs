@@ -15,7 +15,7 @@ string fullName;
 DateTime modifiedDate;
 
 review4.cs
-public bool isShopOpen(string pDay, int pAmount)
+public bool isShopOpen(string purchaseDay, int purchaseAmount)
 {
     // some logic
 }
@@ -35,7 +35,7 @@ public Datetime modTime { get; set; } // get set Modification Time
 public Datetime modificationTime { get; set; } 
 
 review7.cs
-public double calculateSalary(int workingdays, int workinghours)
+public double calculateSalary(int workingDays, int workingHours)
 {
     // some logic
 }
